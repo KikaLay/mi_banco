@@ -8,9 +8,9 @@ Materia aplicada
 - Captura de errores en transacciones
 
 Comandos
-npm init
-npm i pg
-npm i pg-cursor
-node index.js consultar 1
-node index.js 'consultar saldo' 1
-node index.js registrar 1 '1000' 2 '1000' 'abono' '28/05/2022' '1000' 1
+ npm init
+ npm i pg
+ npm i pg-cursor
+ node index.js consultar 1
+ node index.js 'consultar saldo' 1
+ node index.js registrar 1 '1000' 2 '1000' 'abono' '28/05/2022' '1000' 1
